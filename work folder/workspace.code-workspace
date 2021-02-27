@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "project-bootstrap",
+			"path": "..\\project-bootstrap"
+		}
+	],
+	"settings": {}
+}
